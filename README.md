@@ -1,4 +1,4 @@
-# Oi, eu sou o Felipe!
+# Oi, eu sou o Felipe! 😊
 
 ## Tenho 19 anos e tive meu primeiro contato com programação aos 16 anos. Atualmente não tenho um trabalho pois estou focando agora em estudar para a faculdade.
 
