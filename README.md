@@ -8,7 +8,7 @@ Tenho 20 anos, técnico em informática, cursando Ciência da Computação e um 
 - C;
 - PHP
 
-mas ultimamente tenho estudado bem mais JS (Node.js == <3), por gosto, e também C, por conta da faculdade.
+mas ultimamente tenho estudado bem mais JS (Node.js == <3), por gostar, e também C, por conta da faculdade.
 
  Não tenho o costume de usar redes sociais, mas mesmo assim vou deixar aqui links para elas.
 
