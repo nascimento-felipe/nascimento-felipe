@@ -4,11 +4,11 @@ Tenho 20 anos, técnico em informática, cursando Ciência da Computação e um 
 
  Minhas linguagens preferidas são: 
 - Java;
+- C#
 - Javascript;
 - C;
-- PHP
 
-mas ultimamente tenho estudado bem mais JS (Node.js == <3), por gostar, e também C, por conta da faculdade.
+ mas ultimamente tenho estudado bem mais C# e Java por gostar bastante das linguagens.
 
  Não tenho o costume de usar redes sociais, mas mesmo assim vou deixar aqui links para elas.
 
