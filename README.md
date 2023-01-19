@@ -5,8 +5,8 @@
 Tenho 21 anos, técnico em informática, cursando Ciência da Computação e um mestre em fazer side quests (procrastinar), com anos de prática hehe.
 
  Minhas linguagens preferidas são: 
-- Java;
-- C#;
 - Javascript;
+- C#;
+- Java;
 - C;
 - C++
