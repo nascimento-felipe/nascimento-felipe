@@ -7,6 +7,4 @@ Tenho 22 anos, técnico em informática, cursando Ciência da Computação e um 
  Minhas linguagens preferidas são: 
 - Javascript;
 - C#;
-- Java;
-- C;
 - C++
