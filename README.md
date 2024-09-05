@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-I'm 22 years old, an **IT Technician** when i was in high school, now coursing a **Bachelor's degree in Computer Science**. I am also an expert in side quests, with years of practice.
+I'm 23 years old, an **IT Technician** when i was in high school, now coursing a **Bachelor's degree in Computer Science**. I am also an expert in side quests, with years of practice.
 
 I am not currently working, but i'm looking for a first opportunity and, in the meantime, i'm improving my skills to keep them sharp. You can see some of **my projects here pinned in my home page**.
 
