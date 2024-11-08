@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-I'm 23 years old, an **IT Technician** when i was in high school, now coursing a **Bachelor's degree in Computer Science**. I am also an expert in side quests, with years of practice.
+I'm 23 years old, an **IT Technician** when i was in high school, now coursing a **Bachelor's degree in Computer Science**.
 
 I am not currently working, but i'm looking for a first opportunity and, in the meantime, i'm improving my skills to keep them sharp. You can see some of **my projects here pinned in my home page**.
 
@@ -36,5 +36,5 @@ I also want to learn some mobile development with **React Native**. I've already
 
 - I play acoustic guitar and electric guitar since i was 15 yo and now I'm learning piano all by myself.
 - I love philosophy and i will study it as a hobby when i finish my Bachelor's degree in CS. I aim to get also a bachelor's degree on philosophy.
-- I am a Senior DeMolay, trying to follow his - Jacques DeMolay - purpose, who would rather die than surrender his companions, and I try to live a life which is worthy living, being honest with my principles and my promises.
+- I am a Senior DeMolay, trying to follow his - Jacques DeMolay - purpose, who would rather die than give up his companions and the Templar Order to the King, and I try to live a life which is worthy living, being honest with my principles and my promises.
 - I love to help people and build tools and things that will help them in some way.
