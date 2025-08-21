@@ -25,7 +25,7 @@ I also want to learn some mobile development with **React Native**. I've already
 
 ## My Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascimento-felipe&exclude=geladeira-ia&theme=shadow_red&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascimento-felipe&theme=shadow_red&layout=donut)
 
 ## Curiosities about me
 
