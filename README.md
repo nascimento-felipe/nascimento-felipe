@@ -31,5 +31,5 @@ I also want to learn some mobile development with **React Native**. I've already
 
 - I play acoustic guitar and electric guitar since i was 15 years old and now I'm learning piano all by myself.
 - I love philosophy and i will study it as a hobby when i finish my Bachelor's degree in CS. I aim to get also a bachelor's degree on philosophy.
-- I am a Senior DeMolay, trying to follow his - Jacques DeMolay - purpose, who would rather die than give up his companions and the Templar Order to the King; and I try to live a life which is worthy living, being honest with my principles and my promises.
+- I am a Senior DeMolay, trying to follow Jacques DeMolay purpose, who would rather die than give up his companions and the Templar Order to the King, betraying his own tenets; and I try to live a life which is worthy living, being honest with my principles and keeping my promises.
 - I love to help people and build tools and things that will help them in some way.
