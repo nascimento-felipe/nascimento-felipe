@@ -1,6 +1,6 @@
 
 
-### Oi, eu sou o Felipe! 
+# Oi, eu sou o Felipe! 
 
 ## Quem sou eu?
 
@@ -23,7 +23,7 @@ Também quero aprender desenvolvimento mobile com React Native.
 
 // English //
 
-### Hi, I am Felipe! 
+# Hi, I am Felipe! 
 
 ## Who am I?
 
