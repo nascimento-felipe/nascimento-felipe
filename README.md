@@ -12,8 +12,6 @@ I am not currently working, but i'm looking for a opportunity and, in the meanti
 
 I am currently a full stack developer, with knowledge on **backend** and **frontend**. I love to work like this because i can see the project as whole and is easier to fix bugs and see improvements.
 
-If i was to choose only one of them, i would choose backend 'cause it's the stack that i'm mostly coding today.
-
 I also want to learn some mobile development with **React Native**. I've already seen **Flutter**, but i think i'll fell more comfortable with RN.
 
 ## Techs and tools that i love to work with
