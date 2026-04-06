@@ -4,13 +4,13 @@
 
 ## Quem sou eu?
 
-Tenho 24 anos e sou técnico em informática, cientista da computação e cursando uma especialização em engenharia de software.
+Tenho 24 anos e sou **técnico em informática**, **cientista da computação** e cursando uma **especialização em engenharia de software**.
 
-Não estou trabalhando fixo, mas estou fazendo alguns freelances e buscando uma oportunidade legal. Enquanto isso, me mantenho atualizado e estudando para estar sempre afiado.
+Não estou trabalhando fixo, mas estou fazendo alguns **freelances** e **buscando uma oportunidade** legal. Enquanto isso, me mantenho atualizado e estudando para estar sempre afiado.
 
 ## Meu objetivo
 
-Sou atualmente um desenvolvedor fullstack, com conhecimento no backend e no frontend. Amo trabalhar assim porque consigo ver o projeto como um todo e consigo ver melhorias mais fácil. Além disso, essa experiência em ambos os lados me ajudou a conseguir alguns trabalhos como freelancer.
+Sou atualmente um **desenvolvedor fullstack**, com conhecimento no backend e no frontend. Amo trabalhar assim porque consigo ver o projeto como um todo e consigo ver melhorias mais fácil. Além disso, essa experiência em ambos os lados me ajudou a conseguir alguns trabalhos como freelancer.
 
 Também quero aprender desenvolvimento mobile com React Native.
 
