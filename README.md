@@ -1,10 +1,8 @@
-
-
 # Oi, eu sou o Felipe! 
 
 ## Quem sou eu?
 
-Tenho 24 anos e sou **técnico em informática**, **cientista da computação** e cursando uma **especialização em engenharia de software**.
+Tenho 25 anos e sou **técnico em informática**, **cientista da computação** e cursando uma **especialização em engenharia de software**.
 
 Não estou trabalhando fixo, mas estou fazendo alguns **freelances** e **buscando uma oportunidade** legal. Enquanto isso, me mantenho atualizado e estudando para estar sempre afiado.
 
@@ -21,13 +19,13 @@ Também quero aprender desenvolvimento mobile com React Native.
 - Sou um DeMolay Sênior e busco seguir o exemplo de Jacques DeMolay, que preferiu morrer do que ir contra seus princípios e seus companheiros de Ordem. A história dele é muito interessante e recomendo que procurem dar uma lida, mesmo que na página da Wikipédia.
 - Adoro ajudar pessoas e, principalmente, construir ferramentas que vão ajudá-las de alguma forma.
 
-// English //
+// --  English  -- //
 
 # Hi, I am Felipe! 
 
 ## Who am I?
 
-I'm 24 years old, an **IT Technician** when i was in high school, now a **Computer Scientist** and finishing a degree in Software Engineering.
+I'm 25 years old, an **IT Technician** when i was in high school, now a **Computer Scientist** and finishing a degree in Software Engineering.
 
 I am not currently working, but i'm looking for a opportunity and, in the meantime, i'm improving my skills to keep them sharp. You can see some of **my projects here pinned in my home page**.
 
